@@ -172,7 +172,7 @@ span{
 .foot-panel2{
     background-color: #222f3d;
     color: white;
-    height: 500px;
+    height: 300px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -213,6 +213,9 @@ ul a{
     font-size: 0.75rem;
     text-align: center;
     padding-top: 25px;
+}
+.pages a{
+    margin-left: 10px;
 }
 .copyright{
     font-size: 0.75rem;   
