@@ -1,2 +1,3 @@
 # Amazon-Clone
- project of amazon.com website clone
+ Project of Amazon global website (amazon.com) clone
+ using HTML and CSS
